@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Ighomena
-I am a Level 3 IT college student, looking to study software engineering at university.
+Studying software engineering at university.
 
 ## Interests meet hobbies
 - 👀 I’m interested in learning, implementing and advanced my technological knownledge. I enjoy web development,  building robots with audruino.
