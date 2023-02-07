@@ -1,5 +1,6 @@
 # 👋 Hi there, I’m Ighomena
 Studying software engineering, with over 4 year experience in web development.
+Visit my portfolio: <b><a href="https://ighomena.me">ighomena.me</a>
 
 ## Interests meet hobbies
 - 👀 I’m interested in learning, implementing and advancing my technological knowledge. I enjoy web development and building robots with Arduino.
@@ -8,8 +9,6 @@ Studying software engineering, with over 4 year experience in web development.
 - 😻 I enjoy playing chess.
 
 ## Reach out
-[![porfolio](./img/web.svg)](https://ighomena.me)
-&nbsp;&nbsp;
 [![linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/ighomena-daniel-odebala-a22811203/)
 &nbsp;&nbsp;
 [![twitter](./img/twitter.svg)](https://twitter.com/_ighomena_)
