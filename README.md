@@ -11,7 +11,7 @@ Visit my portfolio: <b><a href="https://ighomena.me">ighomena.me</a>
 ## Reach out
 [![linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/ighomena-daniel-odebala-a22811203/)
 &nbsp;&nbsp;
-[![twitter](./img/twitter.svg)](https://twitter.com/_ighomena_)
+[![twitter](./img/twitter.svg)](https://twitter.com/ighomena__)
 &nbsp;&nbsp;
 [![instagram](./img/instagram.svg)](https://www.instagram.com/dhee_tree/)
 
